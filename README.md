@@ -1,6 +1,10 @@
-# Angular Hybrid 1 (using UI-Router)
+# How to make an Angular.js/Angular Hybrid Application (using UI-Router)
 
-This repo shows how to use these technologies combined (hopefully, saving you some suffering):
+I created this repo some years ago while migrating a large Angular.js app to Angular (i.e. version 1.x to 2+).
+
+After much struggling, I found a recipe that allowed both technologies to communicate bidirectionally. I created this repo in case it's useful to somebody out there and saves you some time.
+
+This repo shows how to use these technologies combined:
 
 - [Angular.js 1.7](https://angularjs.org/)
 - [Angular 10](https://angular.io/)
